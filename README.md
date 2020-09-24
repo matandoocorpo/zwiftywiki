@@ -10,7 +10,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 - [Calendario de circuitos](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/schedule/) (Zwift Insider)
 </details>
 
-## :airplane: Mapas y rutas 
+## :earth_americas: Mapas y rutas 
   - [Libro Gordo de todas las de Zwift](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/routes/) (Zwift Insider)
 
   - [Lista de todas las rutas w/ con filtros](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwifthacks.com/app/routes/) (ZwiftHacks)
@@ -19,12 +19,12 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
   
 ## 🏆 Eventos, Carreras y Workouts
 
-### Eventos
+### :speaker: Eventos
 
 - [Lista de todos los eventos con filtros](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwifthacks.com/app/events/) (ZwiftHacks)
 - [Página oficial de eventos de Zwift](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwift.com/events/) (Zwift)
 
-### Compitiendo en Zwift
+### :checkered_flag: Compitiendo en Zwift
 
 - [Plataforma oficial de resultados](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftpower.com/) (Zwift Power)
 - [Cómo competir en Zwift (Configuraciones, Estrategia,...)](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/how-to-race/) (Zwift Insider)
@@ -34,7 +34,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 - [Tácticas en carrera](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fwww.reddit.com/r/Zwift/comments/df7s73/finished_my_first_race_excited_to_learn_more_race/) (Reddit)
 - [Utilizando Discord en Zwift](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/using-discord) (Zwift Insider)
 
-### Workouts
+### :bar_chart: Workouts
 
 - [Workouts y planes de entrenamiento](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fwhatsonzwift.com/workouts/) (What's on Zwift?)
 - [Eventos de entrenamiento en grupo](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fwhatsonzwift.com/group-workouts/) (What's on Zwift?)
