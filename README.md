@@ -1,7 +1,8 @@
 # Recursos para comenzar en Zwift
 
-Just decided to get Zwifting and you don't know where to start?
-This list of resources might help! 🚴🏻‍♂️📚
+¿Acabas de descubrir Zwift y no sabes por dónde empezar?
+
+Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 
 ## 📆 Calendario de circuitos, Mapas y Rutas
 
