@@ -86,7 +86,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 
 ## :disappointed_relieved: Resolución de problemas
 
-- [Recuperar actividad perdida](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/retrieve-lost-ride/) (Zwift Insider)
+- [Solución a problemas comunes](troubleshooting.md)
 
 ## 🚧 Work In Progress
 
