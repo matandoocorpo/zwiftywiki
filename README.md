@@ -44,6 +44,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 
 ### :bar_chart: Workouts
 
+- [Potencia 101](power101.md)
 - [Workouts y planes de entrenamiento](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fwhatsonzwift.com/workouts/) (What's on Zwift?)
 - [Eventos de entrenamiento en grupo](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fwhatsonzwift.com/group-workouts/) (What's on Zwift?)
 
