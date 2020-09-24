@@ -3,7 +3,7 @@
 ### Mapas
 
 <details>
-<summary>Watopia</summary>
+<summary>:sunrise_over_mountains: Watopia</summary>
 
 - [WATOPIA](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/watopia/)
 <details>
