@@ -61,7 +61,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 - [Encuentra tu ID de Zwift](https://zwiftinsider.com/find-your-zwift-user-id-2/)
 - [ZwiftRiders](https://www.facebook.com/groups/zwiftriders/)
 - [Foros Oficiales Zwift](https://forums.zwift.com)
-- [Manual no oficial en ingglés](https://titaniumgeek.com/zwift-user-manual-unofficial-running-updates/)
+- [Manual no oficial en inglés](https://titaniumgeek.com/zwift-user-manual-unofficial-running-updates/)
 - [KB Zwiftriders](https://kb.zwiftriders.com/)
 - [Zwift Coders](https://www.facebook.com/groups/zwiftCoders/)
 - [Zwift en Reddit](https://www.reddit.com/r/Zwift/)
