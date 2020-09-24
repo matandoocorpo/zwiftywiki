@@ -64,6 +64,8 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 ## ⌨️ Atajos de Teclado & App Companion
 
 - [Atajos de teclado](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/keyboard-shortcuts/)
+- [Zwift Companion](https://support.zwift.com/en_us/using-the-zwift-companion-app-rJ7ayD_ES)
+
 
 ## 🔨 Herramientas útiles
 
