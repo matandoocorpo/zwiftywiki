@@ -44,22 +44,22 @@ This list of resources might help! 🚴🏻‍♂️📚
 - [6 ruedas más rápidas](https://zwiftinsider.com/fastest-wheelsets/) (Zwift Insider)
 - [Test de velocidad de ruedas: Wheel Rankings](https://zwiftinsider.com/charts-wheels/) (Zwift Insider)
 
-## ⌨️ Keyboard Shortcuts & Companion App
+## ⌨️ Atajos de Teclado & App Companion
 
 (TODO)
 
-## 🔨 3rd Party Tools
+## 🔨 Herramientas útiles
 
-- (TODO) https://zwifthacks.com/zwiftpref/
-- (TODO) https://www.zwiftgps.com
-- (TODO) https://zwifthacks.com/zwiftmap/
+- [ZwiftPreferences](https://zwifthacks.com/zwiftpref)
+- [ZwiftGPS](https://www.zwiftgps.com)
+- [ZwiftMap](https://zwifthacks.com/zwiftmap/)
 - (TODO) https://whatsonzwift.com/convert/
 
-## 🔗 Other Useful Links
+## 🔗 Links útiles
 
-- (TODO) https://zwiftinsider.com/find-your-zwift-user-id-2/
-- (TODO) https://www.facebook.com/groups/zwiftriders/
-- (TODO) https://forums.zwift.com
+- [Encuentra tu ID de Zwift](https://zwiftinsider.com/find-your-zwift-user-id-2/)
+- [ZwiftRiders](https://www.facebook.com/groups/zwiftriders/)
+- [Foros Oficiales Zwift]https://forums.zwift.com
 - (TODO) https://titaniumgeek.com/zwift-user-manual-unofficial-running-updates/
 - (TODO) https://kb.zwiftriders.com/
 - (TODO) https://www.facebook.com/groups/zwiftCoders/
