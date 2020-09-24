@@ -54,7 +54,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 
 ## ⌨️ Atajos de Teclado & App Companion
 
-(TODO)
+-[Atajos de teclado](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/keyboard-shortcuts/)
 
 ## 🔨 Herramientas útiles
 
