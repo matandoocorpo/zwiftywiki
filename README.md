@@ -17,6 +17,14 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 
   - [Detalle de mapas y rutas](maps.md)
   
+  <details>
+  <summary>Selección Manual del Circuito</summary>
+  
+  - [Con Zwift-Preferences](https://zwifthacks.com/zwift-preferences/)
+  - [Editando prefs.xml](https://zwiftinsider.com/world-tag/)
+  
+  </details>
+  
 ## 🏆 Eventos, Carreras y Workouts
 
 ### :speaker: Eventos
