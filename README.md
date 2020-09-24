@@ -76,7 +76,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 ## ⚙️ Configuración de rodillos
  :wrench: [Rodillos](trainers.md)
 
-## 🔧 Resolución de problemas
+## :disappointed_relieved: Resolución de problemas
 
 - [Recuperar actividad perdida](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/retrieve-lost-ride/) (Zwift Insider)
 
