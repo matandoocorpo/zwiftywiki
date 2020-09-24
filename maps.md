@@ -1,4 +1,4 @@
-# Mapas Zwift 
+# :airplane: Mapas y Rutas Zwift 
 
 ### Mapas
 
@@ -15,7 +15,7 @@
 </details>
 
 <details>
-<summary>Londres</summary>
+<summary>:uk: Londres</summary>
 
 - [LONDRES](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/london/)
 <details>
@@ -28,7 +28,7 @@
 </details>
 
 <details>
-<summary>Richmond</summary>
+<summary>:us: Richmond</summary>
 
 - [RICHMOND](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/richmond/)
 <details>
@@ -41,7 +41,7 @@
 </details>
 
 <details>
-<summary>Innsbrück</summary>
+<summary>:checkered_flag: Innsbrück</summary>
 
 - [INNSBRÜCK](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/innsbruck/)
 <details>
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary>New York</summary>
+<summary>:us: New York</summary>
 
 - [NEW YORK](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/nyc/)
 <details>
@@ -67,7 +67,7 @@
 </details>
 
 <details>
-<summary>Yorkshire</summary>
+<summary>:uk: Yorkshire</summary>
 
 - [YORKSHIRE](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/yorkshire/)
 <details>
@@ -81,7 +81,7 @@
 </details>
 
 <details>
-<summary>France</summary>
+<summary>:fr: France</summary>
 
 - [FRANCE](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/france/)
 <details>
@@ -97,7 +97,7 @@
 ### Mapas exclusivos para eventos:
 
 <details>
-<summary>Bologna</summary>
+<summary>:it: Bologna</summary>
 
 - [BOLOGNA](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/bologna-time-trial-lap/)
 <details>
@@ -111,7 +111,7 @@
 </details>
 
 <details>
-<summary>Crit City</summary>
+<summary>:checkered_flag: Crit City</summary>
 
 - [CRIT CITY](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/crit-city/)
 <details>
@@ -126,7 +126,7 @@
 
 <details>
 
-<summary>Paris</summary>
+<summary>:fr: Paris</summary>
 
 - [PARIS](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/paris/)
 <details>
