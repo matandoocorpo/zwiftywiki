@@ -59,34 +59,34 @@ This list of resources might help! 🚴🏻‍♂️📚
 
 - [Encuentra tu ID de Zwift](https://zwiftinsider.com/find-your-zwift-user-id-2/)
 - [ZwiftRiders](https://www.facebook.com/groups/zwiftriders/)
-- [Foros Oficiales Zwift]https://forums.zwift.com
-- (TODO) https://titaniumgeek.com/zwift-user-manual-unofficial-running-updates/
-- (TODO) https://kb.zwiftriders.com/
-- (TODO) https://www.facebook.com/groups/zwiftCoders/
-- (TODO) https://www.reddit.com/r/Zwift/
+- [Foros Oficiales Zwift](https://forums.zwift.com)
+- [Manual no oficial en ingglés](https://titaniumgeek.com/zwift-user-manual-unofficial-running-updates/)
+- [KB Zwiftriders](https://kb.zwiftriders.com/)
+- [Zwift Coders](https://www.facebook.com/groups/zwiftCoders/)
+- [Zwift en Reddit](https://www.reddit.com/r/Zwift/)
 
-## ⚙️ Trainers Setup
+## ⚙️ Configuración de rodillos
 
-### Direct Drive Trainers
+### Tracción directa
 
-See up-to-date list of compatible Direct Drive trainers on [the Zwift Website](https://support.zwift.com/en_us/direct-drive-trainers-B1oH2meS).
+Consulta la lista oficial de rodillos soportados en [Zwift.com](https://support.zwift.com/en_us/direct-drive-trainers-B1oH2meS).
 
-- [Pairing a CycleOps Trainer](https://support.zwift.com/en_us/pairing-a-cycleops-trainer-Hyx5XVZxS) (Zwift)
-- [Pairing Elite® Trainers](https://support.zwift.com/en_us/pairing-elite-trainers-HJoxNNZer) (Zwift)
-- [Tacx Trainer](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB) (Zwift)
-- [Configuring a Wahoo Trainer](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS) (Zwift)
+- [Emparejar CicleOps](https://support.zwift.com/en_us/pairing-a-cycleops-trainer-Hyx5XVZxS) (Zwift)
+- [Emparejar rodillos Elite](https://support.zwift.com/en_us/pairing-elite-trainers-HJoxNNZer) (Zwift)
+- [Emparejar rodillos Tacx](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB) (Zwift)
+- [Emparejar rodillo Wahoo](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS) (Zwift)
 
-### Wheel-on Trainers
+### Tradicionales
 
-See up-to-date list of compatible Wheel-on trainers on [the Zwift Website](https://support.zwift.com/en_us/wheel-on-trainers-r1B5nQWxS).
+Consulta la lista oficial de rodillos soportados en [Zwift.com](https://support.zwift.com/en_us/wheel-on-trainers-r1B5nQWxS).
 
-- [Pairing a Bkool Trainer](https://support.zwift.com/en_us/pairing-a-bkool-trainer-HyQ4FVZeS) (Zwift)
-- [Pairing a CycleOps Trainer](https://support.zwift.com/en_us/pairing-a-cycleops-trainer-Hyx5XVZxS) (Zwift)
-- [Pairing Elite® Trainers](https://support.zwift.com/en_us/pairing-elite-trainers-HJoxNNZer) (Zwift)
-- [Pairing a Kinetic inRide](https://support.zwift.com/en_us/pairing-a-kinetic-inride-HJPO5VWgB) (Zwift)
-- [Pairing a Computrainer Trainer](https://support.zwift.com/en_us/pairing-a-computrainer-trainer-r1m75EZlS) (Zwift)
-- [Tacx Trainer](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB) (Zwift)
-- [Configuring a Wahoo Trainer](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS) (Zwift)
+- [Emparejar Bkool](https://support.zwift.com/en_us/pairing-a-bkool-trainer-HyQ4FVZeS) (Zwift)
+- [Emparejar Cyclops](https://support.zwift.com/en_us/pairing-a-cycleops-trainer-Hyx5XVZxS) (Zwift)
+- [Emparejar rodillos Elite](https://support.zwift.com/en_us/pairing-elite-trainers-HJoxNNZer) (Zwift)
+- [EmparejarKinetic inRide](https://support.zwift.com/en_us/pairing-a-kinetic-inride-HJPO5VWgB) (Zwift)
+- [Emparejar rodillo Computrainer](https://support.zwift.com/en_us/pairing-a-computrainer-trainer-r1m75EZlS) (Zwift)
+- [Emparejar rodillo Tacx Trainer](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB) (Zwift)
+- [Emparejar rodillo  Wahoo](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS) (Zwift)
 
 ## 🔧 Troubleshooting
 
