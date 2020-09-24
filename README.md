@@ -1,30 +1,30 @@
-# Zwift-beginner-resources
+# Recursos para comenzar en Zwift
 
 Just decided to get Zwifting and you don't know where to start?
 This list of resources might help! 🚴🏻‍♂️📚
 
 ## 📆 Course Calendar, Maps & Routes
 
-- [Courses Calendar](https://zwiftinsider.com/schedule/) (Zwift Insider)
-- [Master List of All Zwift Routes](https://zwiftinsider.com/routes/) (Zwift Insider)
-- [List of all Routes w/ filters](https://zwifthacks.com/app/routes/) (ZwiftHacks)
+- [Calendario de circuitos](https://zwiftinsider.com/schedule/) (Zwift Insider)
+- [Libro Gordo de todas las de Zwift](https://zwiftinsider.com/routes/) (Zwift Insider)
+- [Lista de todas las rutas w/ con filtros](https://zwifthacks.com/app/routes/) (ZwiftHacks)
 
-## 🏆 Events, Races & Workouts
+## 🏆 Eventos, Carreras & Workouts
 
-### Events
+### Eventos
 
-- [List of all events w/ filters](https://zwifthacks.com/app/events/) (ZwiftHacks)
-- [Official Zwift Events Page](https://zwift.com/events/) (Zwift)
+- [Lista de todos los eventos con filtros](https://zwifthacks.com/app/events/) (ZwiftHacks)
+- [Página oficial de eventos de Zwift](https://zwift.com/events/) (Zwift)
 
-### Racing on Zwift
+### Compitiendo en Zwift
 
-- [Official platform for racing results](https://zwiftpower.com/) (Zwift Power)
-- [How to Race on Zwift (Setup, Strategy,...)](https://zwiftinsider.com/how-to-race/) (Zwift Insider)
-- [Drafting in Zwift: Power Savings and Advice](https://zwiftinsider.com/zwift-drafting/) (Zwift Insider)
-- [Use the Draft to Your Advantage](https://zwift.com/news/15937-zwift-how-to-use-the-draft-to-your-advantage) (Zwift Insider)
-- [5 Advanced Zwift Racing Tips](https://zwiftinsider.com/5-advanced-zwift-racing-tips/) (Zwift Insider)
-- [Race Tactics](https://www.reddit.com/r/Zwift/comments/df7s73/finished_my_first_race_excited_to_learn_more_race/) (Reddit)
-- [Using Discord on Zwift](https://zwiftinsider.com/using-discord) (Zwift Insider)
+- [Plataforma oficial de resultados](https://zwiftpower.com/) (Zwift Power)
+- [Cómo competir en Zwift (Configuraciones, Estrategia,...)](https://zwiftinsider.com/how-to-race/) (Zwift Insider)
+- [A rebufo en Zwift: Ahorrando potencia y consejos](https://zwiftinsider.com/zwift-drafting/) (Zwift Insider)
+- [Aprovecha el rebufo para tu beneficio (https://zwift.com/news/15937-zwift-how-to-use-the-draft-to-your-advantage) (Zwift Insider)
+- [5 Consejos avanzados para competir en Zwift](https://zwiftinsider.com/5-advanced-zwift-racing-tips/) (Zwift Insider)
+- [Tácticas en carrera](https://www.reddit.com/r/Zwift/comments/df7s73/finished_my_first_race_excited_to_learn_more_race/) (Reddit)
+- [Utilizando Discord en Zwift](https://zwiftinsider.com/using-discord) (Zwift Insider)
 
 ### Workouts
 
