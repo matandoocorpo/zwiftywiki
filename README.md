@@ -15,7 +15,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 
   - [Lista de todas las rutas w/ con filtros](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwifthacks.com/app/routes/) (ZwiftHacks)
 
-  - [Detalles de mapas y rutas](maps.md)
+  - [Detalle de mapas y rutas](maps.md)
   
 ## 🏆 Eventos, Carreras y Workouts
 
