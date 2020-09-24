@@ -88,9 +88,9 @@ Consulta la lista oficial de rodillos soportados en [Zwift.com](https://support.
 - [Emparejar rodillo Tacx Trainer](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB) (Zwift)
 - [Emparejar rodillo  Wahoo](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS) (Zwift)
 
-## 🔧 Troubleshooting
+## 🔧 Resolución de problemas
 
-- [Retrieve a Lost or Partial Ride File](https://zwiftinsider.com/retrieve-lost-ride/) (Zwift Insider)
+- [Recuperar actividad perdida](https://zwiftinsider.com/retrieve-lost-ride/) (Zwift Insider)
 
 ## 🚧 Work In Progress
 
