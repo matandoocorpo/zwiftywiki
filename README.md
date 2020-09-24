@@ -24,7 +24,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 - [Lista de todos los eventos con filtros](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwifthacks.com/app/events/) (ZwiftHacks)
 - [Página oficial de eventos de Zwift](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwift.com/events/) (Zwift)
 
-### :checkered_flag: Compitiendo en Zwift
+### :checkered_flag: Competir en Zwift
 
 - [Plataforma oficial de resultados](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftpower.com/) (Zwift Power)
 - [Cómo competir en Zwift (Configuraciones, Estrategia,...)](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/how-to-race/) (Zwift Insider)
