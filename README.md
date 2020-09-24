@@ -10,7 +10,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 - [Calendario de circuitos](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/schedule/) (Zwift Insider)
 </details>
 
-## :airplane: [Mapas y rutas ]
+## :airplane: Mapas y rutas 
   - [Libro Gordo de todas las de Zwift](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/routes/) (Zwift Insider)
 
   - [Lista de todas las rutas w/ con filtros](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwifthacks.com/app/routes/) (ZwiftHacks)
