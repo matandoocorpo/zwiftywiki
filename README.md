@@ -54,7 +54,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 - [ZwiftPreferences](https://zwifthacks.com/zwiftpref)
 - [ZwiftGPS](https://www.zwiftgps.com)
 - [ZwiftMap](https://zwifthacks.com/zwiftmap/)
-- (TODO) https://whatsonzwift.com/convert/
+- [Convertidor GPX a ZWO] https://whatsonzwift.com/convert/
 
 ## 🔗 Links útiles
 
