@@ -3,13 +3,13 @@
 Just decided to get Zwifting and you don't know where to start?
 This list of resources might help! 🚴🏻‍♂️📚
 
-## 📆 Course Calendar, Maps & Routes
+## 📆 Calendario de circuitos, Mapas y Rutas
 
 - [Calendario de circuitos](https://zwiftinsider.com/schedule/) (Zwift Insider)
 - [Libro Gordo de todas las de Zwift](https://zwiftinsider.com/routes/) (Zwift Insider)
 - [Lista de todas las rutas w/ con filtros](https://zwifthacks.com/app/routes/) (ZwiftHacks)
 
-## 🏆 Eventos, Carreras & Workouts
+## 🏆 Eventos, Carreras y Workouts
 
 ### Eventos
 
@@ -28,21 +28,21 @@ This list of resources might help! 🚴🏻‍♂️📚
 
 ### Workouts
 
-- [Workouts and training plans](https://whatsonzwift.com/workouts/) (What's on Zwift?)
-- [Group workout events](https://whatsonzwift.com/group-workouts/) (What's on Zwift?)
+- [Workouts y planes de entrenamiento](https://whatsonzwift.com/workouts/) (What's on Zwift?)
+- [Eventos de entrenamiento en grupo](https://whatsonzwift.com/group-workouts/) (What's on Zwift?)
 
-## 🍄 Power-ups, Bikes & Wheels
+## 🍄 Power-ups, Bicicletas & Ruedas
 
-- [Regularly updated Speed Tests](https://zwiftinsider.com/category/tips/equipment/speed-tests/) (Zwift Insider)
-- [Your Guide to PowerUps in Zwift](https://zwiftinsider.com/powerups/) (Zwift Insider)
-- [The 5 Fastest Bikes in Zwift (and How to Get Them)](https://zwiftinsider.com/5-fastest-bikes/) (Zwift Insider)
-- [Zwift’s Fastest Bike Frames for Flat/Rolling Races](https://zwiftinsider.com/fastest-frames/) (Zwift Insider)
-- [Zwift’s Fastest TT Bike Frames for Climbing Races](https://zwiftinsider.com/fastest-tt-climbing-frames/) (Zwift Insider)
-- [Zwift’s Fastest Bike Frames for Climbing](https://zwiftinsider.com/fastest-bike-frames-for-climbing/) (Zwift Insider)
-- [Fastest Frame and Wheelset for Climbing Alpe du Zwift](https://zwiftinsider.com/fastest-bike-alpe/) (Zwift Insider)
-- [Zwift’s 9 Fastest Wheels for Climbing](https://zwiftinsider.com/9-fastest-wheels-for-climbers/) (Zwift Insider)
-- [Zwift’s 6 Fastest Wheelsets](https://zwiftinsider.com/fastest-wheelsets/) (Zwift Insider)
-- [Zwift Speed Test Charts: Wheel Rankings](https://zwiftinsider.com/charts-wheels/) (Zwift Insider)
+- [Test de velocidad de diferentes combinaciones](https://zwiftinsider.com/category/tips/equipment/speed-tests/) (Zwift Insider)
+- [Guia de PowerUps en Zwift](https://zwiftinsider.com/powerups/) (Zwift Insider)
+- [Las 5 bicicletas más rápidas (y como conseguirlas)](https://zwiftinsider.com/5-fastest-bikes/) (Zwift Insider)
+- [Cuadros más rápidos para circuitos llanos](https://zwiftinsider.com/fastest-frames/) (Zwift Insider)
+- [Cuadros de TT para circuitos de montaña](https://zwiftinsider.com/fastest-tt-climbing-frames/) (Zwift Insider)
+- [Cuadros más rápidos para  circuitos de montaña](https://zwiftinsider.com/fastest-bike-frames-for-climbing/) (Zwift Insider)
+- [Cuadro más rápido para escalar Alpe du Zwift](https://zwiftinsider.com/fastest-bike-alpe/) (Zwift Insider)
+- [9 ruedas escaladoras más rápidas](https://zwiftinsider.com/9-fastest-wheels-for-climbers/) (Zwift Insider)
+- [6 ruedas más rápidas](https://zwiftinsider.com/fastest-wheelsets/) (Zwift Insider)
+- [Test de velocidad de ruedas: Wheel Rankings](https://zwiftinsider.com/charts-wheels/) (Zwift Insider)
 
 ## ⌨️ Keyboard Shortcuts & Companion App
 
