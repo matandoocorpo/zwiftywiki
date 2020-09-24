@@ -1,4 +1,4 @@
-# :airplane: Mapas y Rutas Zwift 
+# :earth_americas: Mapas y Rutas Zwift 
 
 ### Mapas
 
