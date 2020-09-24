@@ -4,16 +4,19 @@
 
 Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 
-## 📆 Calendario de circuitos, Mapas y Rutas
+## 📆 Calendario de circuitos
 
 
 - [Calendario de circuitos](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/schedule/) (Zwift Insider)
-- [Libro Gordo de todas las de Zwift](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/routes/) (Zwift Insider)
-- [Lista de todas las rutas w/ con filtros](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwifthacks.com/app/routes/) (ZwiftHacks)
 </details>
 
-### :airplane: [Mapas](maps.md)
+## :airplane: [Mapas y rutas ]
+  - [Libro Gordo de todas las de Zwift](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/routes/) (Zwift Insider)
 
+  - [Lista de todas las rutas w/ con filtros](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwifthacks.com/app/routes/) (ZwiftHacks)
+
+  - [Detalles de mapas y rutas](maps.md)
+  
 ## 🏆 Eventos, Carreras y Workouts
 
 ### Eventos
