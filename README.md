@@ -21,7 +21,7 @@ This list of resources might help! 🚴🏻‍♂️📚
 - [Plataforma oficial de resultados](https://zwiftpower.com/) (Zwift Power)
 - [Cómo competir en Zwift (Configuraciones, Estrategia,...)](https://zwiftinsider.com/how-to-race/) (Zwift Insider)
 - [A rebufo en Zwift: Ahorrando potencia y consejos](https://zwiftinsider.com/zwift-drafting/) (Zwift Insider)
-- [Aprovecha el rebufo para tu beneficio (https://zwift.com/news/15937-zwift-how-to-use-the-draft-to-your-advantage) (Zwift Insider)
+- [Aprovecha el rebufo para tu beneficio ](https://zwift.com/news/15937-zwift-how-to-use-the-draft-to-your-advantage) (Zwift Insider)
 - [5 Consejos avanzados para competir en Zwift](https://zwiftinsider.com/5-advanced-zwift-racing-tips/) (Zwift Insider)
 - [Tácticas en carrera](https://www.reddit.com/r/Zwift/comments/df7s73/finished_my_first_race_excited_to_learn_more_race/) (Reddit)
 - [Utilizando Discord en Zwift](https://zwiftinsider.com/using-discord) (Zwift Insider)
