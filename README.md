@@ -3,6 +3,15 @@
 ¿Acabas de descubrir Zwift y no sabes por dónde empezar?
 
 Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
+## :floppy_disk: Descarga de aplicaciones
+
+- [Zwift Windows](https://zwift.com/download/win)
+- [Zwift Mac](https://zwift.com/download/mac)
+- [Zwift iOS](https://apps.apple.com/us/app/id1134655040?mt=8)
+- [Zwift Android](https://play.google.com/store/apps/details?id=com.zwift.zwiftgame&hl=es_ES)
+- [Zwift Companion Android](https://play.google.com/store/apps/details?id=com.zwift.android.prod)
+- [Zwift Companion iOS](https://apps.apple.com/us/app/zwift-mobile-link/id934083691)
+
 
 ## 📆 Calendario de circuitos
 
