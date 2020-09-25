@@ -120,12 +120,6 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 
 - [Solución a problemas comunes](troubleshooting.md)
 
-## 🚧 Work In Progress
-
-- Update text for more clarity about some of the links
-- Add Indoor Bikes and Rollers to trainers section
-- Add links to detailed Route descriptions on Zwift Insider
-
 ## 🤝 Contributing
 
 Feel from to open an issue or a pull request to suggest changes or additions at [https://github.com/xkraigx/zwift-beginner-resources](https://github.com/xkraigx/zwift-beginner-resources).
