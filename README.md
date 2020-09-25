@@ -67,7 +67,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 - [Preguntas más frecuentes](https://support.zwift.com/en_us/drop-shop-faq-Bk1vMkTfB) (Zwift)
 
 <details>
-  <summary>GPLama te lo explica</summary>
+  <summary> :tv: GPLama te lo explica</summary>
   
   [![GPLama](https://img.youtube.com/vi/5uaBZPmIR50/0.jpg)](https://www.youtube.com/watch?v=5uaBZPmIR50)
   
