@@ -51,6 +51,19 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 - [Workouts y planes de entrenamiento](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fwhatsonzwift.com/workouts/) (What's on Zwift?)
 - [Eventos de entrenamiento en grupo](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fwhatsonzwift.com/group-workouts/) (What's on Zwift?)
 
+## :sweat_drops: La Tienda Zwift (Virtual)
+
+- [La tienda](https://support.zwift.com/en_us/the-drop-shop-S13OywO4B) (Zwift)
+- [Las gotas de sudor](https://zwiftinsider.com/how-drops-work/) (Zwift)
+- [Preguntas más frecuentes](https://support.zwift.com/en_us/drop-shop-faq-Bk1vMkTfB) (Zwift)
+
+<details>
+  <summary>GPLama te lo explica</summary>
+  
+  [![GPLama](https://img.youtube.com/vi/5uaBZPmIR50/0.jpg)](https://www.youtube.com/watch?v=5uaBZPmIR50)
+  
+</details>
+
 ## 🍄 Power-ups, Bicicletas & Ruedas
 
 - [Test de velocidad de diferentes combinaciones](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/category/tips/equipment/speed-tests/) (Zwift Insider)
