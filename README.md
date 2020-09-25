@@ -11,7 +11,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 </details>
 
 ## :earth_americas: Mapas y rutas 
-  - [Libro Gordo de todas las de Zwift](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/routes/) (Zwift Insider)
+  - [Libro Gordo de todas las de Zwift](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fwhatsonzwift.com/worlds/) (WhatsOnZwift)
 
   - [Lista de todas las rutas w/ con filtros](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwifthacks.com/app/routes/) (ZwiftHacks)
 
