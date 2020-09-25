@@ -5,7 +5,7 @@
 <details>
 <summary>:sunrise_over_mountains: Watopia</summary>
 
-- [WATOPIA](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/watopia/)
+- [WATOPIA](https://zwiftinsider.com/watopia/)
 <details>
 <summary>Rutas en Watopia</summary>
 
@@ -70,7 +70,7 @@
 <details>
 <summary>:uk: Londres</summary>
 
-- [LONDRES](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/london/)
+- [LONDRES](https://zwiftinsider.com/london/)
 <details>
 <summary>Rutas en Londres</summary>
 
@@ -103,7 +103,7 @@
 <details>
 <summary>:us: Richmond</summary>
 
-- [RICHMOND](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/richmond/)
+- [RICHMOND](https://zwiftinsider.com/richmond/)
 <details>
 <summary>Rutas en Richmond</summary>
 
@@ -122,7 +122,7 @@
 <details>
 <summary>:checkered_flag: Innsbrück</summary>
 
-- [INNSBRÜCK](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/innsbruck/)
+- [INNSBRÜCK](https://zwiftinsider.com/innsbruck/)
 <details>
 <summary>Rutas en Innsbrück</summary>
 
@@ -140,7 +140,7 @@
 <details>
 <summary>:us: New York</summary>
 
-- [NEW YORK](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/nyc/)
+- [NEW YORK](https://zwiftinsider.com/nyc/)
 <details>
 <summary>Rutas en New York</summary>
 
@@ -178,7 +178,7 @@
 <details>
 <summary>:uk: Yorkshire</summary>
 
-- [YORKSHIRE](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/yorkshire/)
+- [YORKSHIRE](https://zwiftinsider.com/yorkshire/)
 <details>
 <summary>Rutas en Yorkshire</summary>
 
@@ -197,7 +197,7 @@
 <details>
 <summary>:fr: France</summary>
 
-- [FRANCE](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/france/)
+- [FRANCE](https://zwiftinsider.com/france/)
 <details>
 <summary>Rutas en Francia</summary>
 
@@ -221,7 +221,7 @@
 <details>
 <summary>:it: Bologna</summary>
 
-- [BOLOGNA](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/bologna-time-trial-lap/)
+- [BOLOGNA](https://zwiftinsider.com/bologna-time-trial-lap/)
 <details>
 <summary>Rutas en Bologna</summary>
 
@@ -235,7 +235,7 @@
 <details>
 <summary>:checkered_flag: Crit City</summary>
 
-- [CRIT CITY](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/crit-city/)
+- [CRIT CITY](https://zwiftinsider.com/crit-city/)
 <details>
 <summary>Rutas en Crit City</summary>
 
@@ -251,7 +251,7 @@
 
 <summary>:fr: Paris</summary>
 
-- [PARIS](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwiftinsider.com/paris/)
+- [PARIS](https://zwiftinsider.com/paris/)
 <details>
 <summary>Rutas en Paris</summary>
 
