@@ -1,1 +1,1 @@
-## :question: Preguntas frecuente
+## :question: Preguntas frecuentes
