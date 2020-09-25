@@ -11,6 +11,9 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 ## :earth_americas: Mapas y rutas [Ir](main.md#earth_americas-mapas-y-rutas)
 
 ## 🏆 Eventos, Carreras y Workouts [Ir](main.md#-eventos-carreras-y-workouts)
+- ### Eventos [Ir](main.md#speaker-eventos)
+- ### Competir en Zwift [Ir](main.md#checkered_flag-competir-en-zwift)
+- ### Workouts (Potencia, planes..) [Ir](main.md#bar_chart-workouts)
 
 ## 🍄 Power-ups, Bicicletas & Ruedas [Ir](main.md#-power-ups-bicicletas--ruedas)
 
