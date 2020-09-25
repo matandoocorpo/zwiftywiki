@@ -1,6 +1,6 @@
 # Potencia 101
 
-### Para entender muchos de los conceptos que se manejan en los entrenamientos, es 100% recomendable pasarse por este canal de Youtube:
+#### Para entender muchos de los conceptos que se manejan en los entrenamientos, es 100% recomendable pasarse por este canal de Youtube:
 - [Canal Youtube de Rubén Fernández](https://www.youtube.com/c/Rub%C3%A9nFern%C3%A1ndezCiclismo/)
 ***
 
