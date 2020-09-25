@@ -10,6 +10,8 @@
 - [Zwift Companion Android](https://play.google.com/store/apps/details?id=com.zwift.android.prod)
 - [Zwift Companion iOS](https://apps.apple.com/us/app/zwift-mobile-link/id934083691)
 
+- [Discord](https://discord.com/download)
+
 
 ## 📆 Calendario de circuitos
 
