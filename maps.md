@@ -216,7 +216,7 @@
 
 </details>
 
-### Mapas exclusivos para eventos:
+### Mapas exclusivos para eventos
 
 <details>
 <summary>:it: Bologna</summary>
