@@ -25,6 +25,8 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
   
   </details>
   
+  - :v: [Logros y retos](https://zwift.fandom.com/wiki/Achievements) (Zwift Wiki)
+  
 ## 🏆 Eventos, Carreras y Workouts
 
 ### :speaker: Eventos
