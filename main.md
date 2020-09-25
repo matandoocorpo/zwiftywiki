@@ -59,6 +59,7 @@
 - [Potencia 101](power101.md)
 - [Workouts y planes de entrenamiento](https://whatsonzwift.com/workouts/) (What's on Zwift?)
 - [Eventos de entrenamiento en grupo](https://whatsonzwift.com/group-workouts/) (What's on Zwift?)
+- [Crea tus workouts personalizados](https://zwofactory.com/) (ZWOFactory)
 
 ## :sweat_drops: La Tienda Zwift (Virtual)
 
