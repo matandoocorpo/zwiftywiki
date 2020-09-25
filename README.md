@@ -112,6 +112,10 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 ## ⚙️ Configuración de rodillos
  :wrench: [Rodillos](trainers.md)
 
+## :question: Preguntas frecuentes 
+  
+  - [Dudas habituales](faqs.md)
+  
 ## :disappointed_relieved: Resolución de problemas
 
 - [Solución a problemas comunes](troubleshooting.md)
