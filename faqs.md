@@ -1,1 +1,1 @@
-## :disappointed_relieved: Resolución de problemas
+## :question: Preguntas frecuente
