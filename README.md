@@ -31,6 +31,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 
 - [Lista de todos los eventos con filtros](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwifthacks.com/app/events/) (ZwiftHacks)
 - [Página oficial de eventos de Zwift](https://translate.google.es/translate?hl=auto&sl=auto&tl=es&u=http%3A%2F%2Fzwift.com/events/) (Zwift)
+- [Apuntarse a un evento](https://support.zwift.com/en_us/cycling-events-H1z2AUdEr) (Zwift)
 
 ### :checkered_flag: Competir en Zwift
 
