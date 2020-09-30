@@ -29,8 +29,8 @@
   <details>
   <summary>Selección Manual del Circuito</summary>
   
-  - [Con Zwift-Preferences](https://zwifthacks.com/zwift-preferences/)
-  - [Editando prefs.xml](https://zwiftinsider.com/world-tag/)
+   - [Con Zwift-Preferences](https://zwifthacks.com/zwift-preferences/)
+   - [Editando prefs.xml](https://zwiftinsider.com/world-tag/)
   
   </details>
   
