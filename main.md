@@ -25,15 +25,14 @@
   - [Lista de todas las rutas w/ con filtros](https://zwifthacks.com/app/routes/) (ZwiftHacks)
 
   - [Detalle de mapas y rutas](maps.md)
-  
-  #### Selección Manual del Circuito
+   
+  - :v: [Logros y retos](https://zwift.fandom.com/wiki/Achievements) (Zwift Wiki)
+
+  ### Selección Manual del Circuito
   
    - [Con Zwift-Preferences](https://zwifthacks.com/zwift-preferences/)
    - [Editando prefs.xml](https://zwiftinsider.com/world-tag/)
-  
-  
-  - :v: [Logros y retos](https://zwift.fandom.com/wiki/Achievements) (Zwift Wiki)
-  
+   
 ## :trophy: Eventos, Carreras y Workouts
 
 ### :speaker: Eventos
