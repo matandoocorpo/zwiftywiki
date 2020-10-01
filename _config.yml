@@ -5,6 +5,7 @@ description: Recursos útiles para disfrutar de Zwift
 google_tag_manager: GTM-MJLDWPT
 plugins:
   - jekyll-relative-links
+  - jekyll-target-blank
   - jemoji
 relative_links:
   enabled: true
