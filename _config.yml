@@ -1,13 +1,20 @@
 theme: jekyll-theme-minimal
 title: ZwiftyWiki
 description: Recursos útiles para disfrutar de Zwift
+tagline: Recursos para novatos en Zwift
+author: matandoocorpo
 logo: /logo.png
 show_downloads: false
 google_tag_manager: GTM-MJLDWPT
 plugins:
   - jekyll-relative-links
   - jekyll-target-blank
+  - jekyll-seo-tag
   - jemoji
 relative_links:
   enabled: true
   collections: false
+twitter:
+  card:summary
+  username: matandoocorpo
+url: https://matandoocorpo.github.io/zwiftywiki/ 
