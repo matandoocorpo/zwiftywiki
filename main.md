@@ -17,7 +17,7 @@
 
 
 - [Calendario de circuitos](https://zwiftinsider.com/schedule/) (Zwift Insider)
-</details>
+
 
 ## :earth_americas: Mapas y rutas 
   - [Libro Gordo de todas las de Zwift](https://whatsonzwift.com/worlds/) (WhatsOnZwift)
