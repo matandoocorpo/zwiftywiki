@@ -67,7 +67,6 @@
  * *[Wbr climbing series](https://zwiftinsider.com/route/wbr-climbing-series/)*
  * *[Whole lotta lava](https://zwiftinsider.com/route/whole-lotta-lava/)*
 </details>
-
 </details>
 
 <details>
@@ -101,7 +100,6 @@
  * *[The prl half](https://zwiftinsider.com/route/the-prl-half/)*
  * *[Triple loops](https://zwiftinsider.com/route/triple-loops/)*
 </details>
-
 </details>
 
 <details>
@@ -119,7 +117,6 @@
  * *[Richmond uci reverse](https://zwiftinsider.com/route/richmond-uci-reverse/)*
  * *[The fan flats](https://zwiftinsider.com/route/the-fan-flats/)*
 </details>
-
 </details>
 
 <details>
@@ -136,7 +133,6 @@
  * *[Lutscher ccw](https://zwiftinsider.com/route/lutscher-ccw/)*
  * *[Lutscher](https://zwiftinsider.com/route/lutscher/)*
 </details>
-
 </details>
 
 <details>
@@ -173,7 +169,6 @@
  * *[The highline reverse](https://zwiftinsider.com/route/the-highline-reverse/)*
  * *[The highline](https://zwiftinsider.com/route/the-highline/)*
 </details>
-
 </details>
 
 <details>
@@ -190,7 +185,6 @@
  * *[Royal pump room 8](https://zwiftinsider.com/route/royal-pump-room-8/)*
  * *[Tour of tewit well](https://zwiftinsider.com/route/tour-of-tewit-well/)* 
 </details>
-
 </details>
 
 
@@ -211,7 +205,6 @@
  * *[Ven top](https://zwiftinsider.com/route/ven-top/)*
 
 </details>
-
 </details>
 
 
@@ -226,7 +219,6 @@
 
   * *[Time trial lap](https://zwiftinsider.com/route/time-trial-lap/)* 
 </details>
-
 </details>
 
 
@@ -240,7 +232,6 @@
  * *[Bell lap](https://zwiftinsider.com/route/bell-lap/)*
  * *[Downtown dolphin](https://zwiftinsider.com/route/downtown-dolphin/)*
 </details>
-
 </details>
 
 
@@ -255,6 +246,5 @@
  * *[Champs elysees](https://zwiftinsider.com/route/champs-elysees/)*
  * *[Lutece express](https://zwiftinsider.com/route/lutece-express/)*
 </details>
-
 </details>
 
