@@ -37,10 +37,10 @@ Si no te manejas bien con el inglés, aquí te explican como hacer que Chrome tr
 
 ## :disappointed_relieved: Resolución de problemas [Ir](main.md#disappointed_relieved-resoluci%C3%B3n-de-problemas)
 
-## :thumbsup: Contributing
+## :thumbsup: Colabora!
 
-Feel from to open an issue or a pull request to suggest changes or additions at [https://github.com/xkraigx/zwift-beginner-resources](https://github.com/xkraigx/zwift-beginner-resources).
+No te cortes y colabora corrigiendo o añadiendo recursos en  [https://github.com/ea1nk/recursos-zwift](https://github.com/ea1nk/recursos-zwift).
 
-## :pencil2: License
+## :pencil2: Licencia
 
-Mozilla Public License Version 2.0. See the [LICENSE](LICENSE) file for license rights and limitations.
+Mozilla Public License Version 2.0. Comprueba los derechos y limitaciones de esta licencia aquí: [LICENSE](LICENSE).
