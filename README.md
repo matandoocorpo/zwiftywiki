@@ -16,7 +16,7 @@ Si no te manejas bien con el inglés, aquí te explican como hacer que Chrome tr
 
 ## :earth_americas: Mapas y rutas [Ir](main.md#earth_americas-mapas-y-rutas)
 
-## :tropy: Eventos, Carreras y Workouts [Ir](main.md#-eventos-carreras-y-workouts)
+## :trophy: Eventos, Carreras y Workouts [Ir](main.md#-eventos-carreras-y-workouts)
 - ### Eventos [Ir](main.md#speaker-eventos)
 - ### Competir en Zwift [Ir](main.md#checkered_flag-competir-en-zwift)
 - ### Workouts (Potencia, planes..) [Ir](main.md#bar_chart-workouts)
