@@ -1,5 +1,5 @@
 remote_theme: janczizikow/sleek
-title: "Recursos Zwift"
+title: Recursos Zwift
 google_tag_manager: GTM-MJLDWPT
 plugins:
   - jekyll-relative-links
