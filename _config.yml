@@ -1,0 +1,17 @@
+remote_theme: janczizikow/sleek
+title: "Recursos Zwift"
+google_tag_manager: GTM-MJLDWPT
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - trainers.md
+  - maps.md
+  - faqs.md
+  - power101.md
+  - main.md
+  - troubleshooting.md
+
