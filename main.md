@@ -13,7 +13,7 @@
 - [Discord](https://discord.com/download)
 
 
-## 📆 Calendario de circuitos
+## :calendar: Calendario de circuitos
 
 
 - [Calendario de circuitos](https://zwiftinsider.com/schedule/) (Zwift Insider)
@@ -37,7 +37,7 @@
   
   - :v: [Logros y retos](https://zwift.fandom.com/wiki/Achievements) (Zwift Wiki)
   
-## 🏆 Eventos, Carreras y Workouts
+## :trophy: Eventos, Carreras y Workouts
 
 ### :speaker: Eventos
 
@@ -75,7 +75,7 @@
   
 </details>
 
-## 🍄 Power-ups, Bicicletas & Ruedas
+## :mushroom: Power-ups, Bicicletas & Ruedas
 
 - [Test de velocidad de diferentes combinaciones](https://zwiftinsider.com/category/tips/equipment/speed-tests/) (Zwift Insider)
 - [Guia de PowerUps en Zwift](https://zwiftinsider.com/powerups/) (Zwift Insider)
@@ -94,14 +94,14 @@
 - [Zwift Companion](https://support.zwift.com/en_us/using-the-zwift-companion-app-rJ7ayD_ES)
 
 
-## 🔨 Herramientas útiles
+## :hammer: Herramientas útiles
 
 - [ZwiftPreferences](https://zwifthacks.com/zwiftpref)
 - [ZwiftGPS](https://www.zwiftgps.com)
 - [ZwiftMap](https://zwifthacks.com/zwiftmap/)
 - [Convertidor GPX a ZWO y de ZWO a otros formatos](https://whatsonzwift.com/convert/)
 
-## 🔗 Links útiles
+## :book: Links útiles
 
 - [Encuentra tu ID de Zwift](https://zwiftinsider.com/find-your-zwift-user-id-2/)
 - [ZwiftRiders](https://www.facebook.com/groups/zwiftriders/)
@@ -111,7 +111,7 @@
 - [Zwift Coders](https://www.facebook.com/groups/zwiftCoders/)
 - [Zwift en Reddit](https://www.reddit.com/r/Zwift/)
 
-## ⚙️ Configuración de rodillos
+## :gear: Configuración de rodillos
  :wrench: [Rodillos](trainers.md)
 
 ## :question: Preguntas frecuentes 
