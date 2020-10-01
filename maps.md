@@ -2,15 +2,11 @@
 
 ### Mapas
 
-<details>
- 
-<summary>:sunrise_over_mountains: Watopia</summary>
+<details><summary>:sunrise_over_mountains: Watopia</summary>
 
 - [WATOPIA](https://zwiftinsider.com/watopia/)
 
-<details>
- 
-<summary>Rutas en Watopia</summary>
+<details><summary>Rutas en Watopia</summary>
 
  * *[Ocean blvd](https://zwiftinsider.com/route/ocean-blvd/)*
  * *[5k loop](https://zwiftinsider.com/route/5k-loop/)*
@@ -69,14 +65,11 @@
 </details>
 </details>
 
-<details>
-<summary>:uk: Londres</summary>
+<details><summary>:uk: Londres</summary>
 
 - [LONDRES](https://zwiftinsider.com/london/)
 
-<details>
- 
-<summary>Rutas en Londres</summary>
+<details><summary>Rutas en Londres</summary>
 
  * *[Classique reverse](https://zwiftinsider.com/route/classique-reverse/)*
  * *[Classique](https://zwiftinsider.com/route/classique/)*
@@ -102,12 +95,11 @@
 </details>
 </details>
 
-<details>
-<summary>:us: Richmond</summary>
+<details><summary>:us: Richmond</summary>
 
 - [RICHMOND](https://zwiftinsider.com/richmond/)
-<details>
-<summary>Rutas en Richmond</summary>
+
+<details><summary>Rutas en Richmond</summary>
 
  * *[2015 uci worlds course](https://zwiftinsider.com/route/2015-uci-worlds-course/)*
  * *[Cobbled climbs reverse](https://zwiftinsider.com/route/cobbled-climbs-reverse/)*
@@ -119,12 +111,11 @@
 </details>
 </details>
 
-<details>
-<summary>:checkered_flag: Innsbrück</summary>
+<details><summary>:checkered_flag: Innsbrück</summary>
 
 - [INNSBRÜCK](https://zwiftinsider.com/innsbruck/)
-<details>
-<summary>Rutas en Innsbrück</summary>
+
+<details><summary>Rutas en Innsbrück</summary>
 
  * *[2018 uci worlds course short lap](https://zwiftinsider.com/route/2018-uci-worlds-course-short-lap/)*
  * *[Achterbahn](https://zwiftinsider.com/route/achterbahn/)*
@@ -135,12 +126,11 @@
 </details>
 </details>
 
-<details>
-<summary>:us: New York</summary>
+<details><summary>:us: New York</summary>
 
 - [NEW YORK](https://zwiftinsider.com/nyc/)
-<details>
-<summary>Rutas en New York</summary>
+
+<details><summary>Rutas en New York</summary>
 
  * *[Astoria line 8](https://zwiftinsider.com/route/astoria-line-8/)*
  * *[Couch to sky k](https://zwiftinsider.com/route/couch-to-sky-k/)*
@@ -171,12 +161,11 @@
 </details>
 </details>
 
-<details>
-<summary>:uk: Yorkshire</summary>
+<details><summary>:uk: Yorkshire</summary>
 
 - [YORKSHIRE](https://zwiftinsider.com/yorkshire/)
-<details>
-<summary>Rutas en Yorkshire</summary>
+
+<details><summary>Rutas en Yorkshire</summary>
 
  * *[2019 uci worlds harrogate circuit](https://zwiftinsider.com/route/2019-uci-worlds-harrogate-circuit/)*
  * *[Duchy estate](https://zwiftinsider.com/route/duchy-estate/)*
@@ -188,12 +177,11 @@
 </details>
 
 
-<details>
-<summary>:fr: France</summary>
+<details><summary>:fr: France</summary>
 
 - [FRANCE](https://zwiftinsider.com/france/)
-<details>
-<summary>Rutas en Francia</summary>
+
+<details><summary>Rutas en Francia</summary>
 
  * *[Casse pattes](https://zwiftinsider.com/route/casse-pattes/)*
  * *[Douce france](https://zwiftinsider.com/route/douce-france/)*
@@ -210,24 +198,22 @@
 
 ### Mapas exclusivos para eventos
 
-<details>
-<summary>:it: Bologna</summary>
+<details><summary>:it: Bologna</summary>
 
 - [BOLOGNA](https://zwiftinsider.com/bologna-time-trial-lap/)
-<details>
-<summary>Rutas en Bologna</summary>
+
+<details><summary>Rutas en Bologna</summary>
 
   * *[Time trial lap](https://zwiftinsider.com/route/time-trial-lap/)* 
 </details>
 </details>
 
 
-<details>
-<summary>:checkered_flag: Crit City</summary>
+<details><summary>:checkered_flag: Crit City</summary>
 
 - [CRIT CITY](https://zwiftinsider.com/crit-city/)
-<details>
-<summary>Rutas en Crit City</summary>
+
+<details><summary>Rutas en Crit City</summary>
 
  * *[Bell lap](https://zwiftinsider.com/route/bell-lap/)*
  * *[Downtown dolphin](https://zwiftinsider.com/route/downtown-dolphin/)*
@@ -235,13 +221,11 @@
 </details>
 
 
-<details>
-
-<summary>:fr: Paris</summary>
+<details><summary>:fr: Paris</summary>
 
 - [PARIS](https://zwiftinsider.com/paris/)
-<details>
-<summary>Rutas en Paris</summary>
+
+<details><summary>Rutas en Paris</summary>
 
  * *[Champs elysees](https://zwiftinsider.com/route/champs-elysees/)*
  * *[Lutece express](https://zwiftinsider.com/route/lutece-express/)*
