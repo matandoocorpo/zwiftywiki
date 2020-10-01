@@ -3,8 +3,8 @@ title: "Recursos Zwift"
 google_tag_manager: GTM-MJLDWPT
 plugins:
   - jekyll-relative-links
-  - jemoji-plus
-emoji_plus:
+  - jemoji
+emoji:
   image:
     width:20
     height:20
