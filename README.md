@@ -39,7 +39,7 @@ Si no te manejas bien con el inglés, aquí te explican como hacer que Chrome tr
 
 ## :thumbsup: Colabora!
 
-No te cortes y colabora corrigiendo o añadiendo recursos en  [https://github.com/matadoocorpo/zwiftywiki](https://github.com/matadoocorpo/zwiftywiki).
+No te cortes y colabora corrigiendo o añadiendo recursos en  [https://github.com/matandoocorpo/zwiftywiki](https://github.com/matandoocorpo/zwiftywiki).
 
 ## :pencil2: Licencia
 
