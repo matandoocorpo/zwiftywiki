@@ -3,10 +3,13 @@
 ### Mapas
 
 <details>
+ 
 <summary>:sunrise_over_mountains: Watopia</summary>
 
 - [WATOPIA](https://zwiftinsider.com/watopia/)
+
 <details>
+ 
 <summary>Rutas en Watopia</summary>
 
  * *[Ocean blvd](https://zwiftinsider.com/route/ocean-blvd/)*
@@ -71,7 +74,9 @@
 <summary>:uk: Londres</summary>
 
 - [LONDRES](https://zwiftinsider.com/london/)
+
 <details>
+ 
 <summary>Rutas en Londres</summary>
 
  * *[Classique reverse](https://zwiftinsider.com/route/classique-reverse/)*
@@ -98,7 +103,6 @@
 </details>
 
 </details>
-</details>
 
 <details>
 <summary>:us: Richmond</summary>
@@ -117,7 +121,6 @@
 </details>
 
 </details>
-</details>
 
 <details>
 <summary>:checkered_flag: Innsbrück</summary>
@@ -134,7 +137,6 @@
  * *[Lutscher](https://zwiftinsider.com/route/lutscher/)*
 </details>
 
-</details>
 </details>
 
 <details>
@@ -173,7 +175,6 @@
 </details>
 
 </details>
-</details>
 
 <details>
 <summary>:uk: Yorkshire</summary>
@@ -192,7 +193,6 @@
 
 </details>
 
-</details>
 
 <details>
 <summary>:fr: France</summary>
@@ -214,7 +214,6 @@
 
 </details>
 
-</details>
 
 ### Mapas exclusivos para eventos
 
@@ -230,7 +229,6 @@
 
 </details>
 
-</details>
 
 <details>
 <summary>:checkered_flag: Crit City</summary>
@@ -245,7 +243,6 @@
 
 </details>
 
-</details>
 
 <details>
 
@@ -261,4 +258,3 @@
 
 </details>
 
-</details>
