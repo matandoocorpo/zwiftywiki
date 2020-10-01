@@ -1,4 +1,4 @@
-remote_theme: janczizikow/sleek
+theme: jekyll-theme-minimal
 title: Recursos Zwift
 google_tag_manager: GTM-MJLDWPT
 plugins:
