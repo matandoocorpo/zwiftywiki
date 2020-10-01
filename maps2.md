@@ -4,7 +4,7 @@
 
 <details><summary>:sunrise_over_mountains: Watopia</summary>
 
-[WATOPIA](https://zwiftinsider.com/watopia/)
+  [WATOPIA](https://zwiftinsider.com/watopia/)
 
 <details><summary>Rutas en Watopia</summary>
 
