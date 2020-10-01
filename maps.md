@@ -22,6 +22,6 @@
 ### Mapas exclusivos para eventos
 
 - :it: [BOLOGNA](bologna.md)
-- 
+
 - :checkered_flag: [CRIT CITY](critcity.md)
 
