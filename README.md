@@ -43,4 +43,4 @@ No te cortes y colabora corrigiendo o añadiendo recursos en  [https://github.co
 
 ## :pencil2: Licencia
 
-Mozilla Public License Version 2.0. Comprueba los derechos y limitaciones de esta licencia aquí: [LICENSE](LICENSE).
+GNU General Public License v3.0. Comprueba los derechos y limitaciones de esta licencia aquí: [LICENSE](LICENSE).
