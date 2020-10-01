@@ -1,4 +1,5 @@
 remote_theme: janczizikow/sleek
+title: "Recursos Zwift"
 google_tag_manager: GTM-MJLDWPT
 plugins:
   - jekyll-relative-links
@@ -13,4 +14,4 @@ include:
   - power101.md
   - main.md
   - troubleshooting.md
-title: Recursos Zwift
+
