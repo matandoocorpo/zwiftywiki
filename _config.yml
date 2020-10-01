@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 title: ZwiftyWiki
 description: Recursos útiles para disfrutar de Zwift
 logo: /logo.png
-show_downloads: false
+show_downloads: true
 google_tag_manager: GTM-MJLDWPT
 plugins:
   - jekyll-relative-links
