@@ -1,4 +1,5 @@
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 title: ZwiftyWiki
 description: Recursos útiles para disfrutar de Zwift
 google_tag_manager: GTM-MJLDWPT
@@ -16,4 +17,12 @@ include:
   - power101.md
   - main.md
   - troubleshooting.md
-  - maps2.md
+  - london.md
+  - paris.md
+  - innsbruck.md
+  - richmond.md
+  - bologna.md
+  - france.md
+  - critcity.md
+  - yorkshire.md
+  - watopia.md
