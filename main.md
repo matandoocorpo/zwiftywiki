@@ -28,7 +28,7 @@
    
   - :v: [Logros y retos](https://zwift.fandom.com/wiki/Achievements) (Zwift Wiki)
 
-  ### Selección Manual del Circuito
+  ### Selección manual del Mapa (no toca ese día)
   
    - [Con Zwift-Preferences](https://zwifthacks.com/zwift-preferences/)
    - [Editando prefs.xml](https://zwiftinsider.com/world-tag/)
