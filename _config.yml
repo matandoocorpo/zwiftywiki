@@ -7,7 +7,7 @@ plugins:
   - jemoji
 relative_links:
   enabled: true
-  collections: true
+  collections: false
 include:
   - README.md
   - trainers.md
