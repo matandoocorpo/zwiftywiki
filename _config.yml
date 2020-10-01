@@ -4,10 +4,6 @@ google_tag_manager: GTM-MJLDWPT
 plugins:
   - jekyll-relative-links
   - jemoji
-emoji:
-  image:
-    width:20
-    height:20
 relative_links:
   enabled: true
   collections: true
