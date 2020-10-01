@@ -1,12 +1,13 @@
-remote_theme: janczizikow/sleek
-title: "Recursos Zwift"
+theme: jekyll-theme-hacker
+title: ZwiftyWiki
+description: Recursos útiles para disfrutar de Zwift
 google_tag_manager: GTM-MJLDWPT
 plugins:
   - jekyll-relative-links
   - jemoji
 relative_links:
   enabled: true
-  collections: true
+  collections: false
 include:
   - README.md
   - trainers.md
@@ -15,4 +16,4 @@ include:
   - power101.md
   - main.md
   - troubleshooting.md
-
+  - maps2.md
