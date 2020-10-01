@@ -254,8 +254,7 @@
  
  * *[Grand central circuit reverse](https://zwiftinsider.com/route/grand-central-circuit-reverse/)*
  
- * *[Grand central circuit](https://zwiftinsider.com/route/grand-ce
- ntral-circuit/)*
+ * *[Grand central circuit](https://zwiftinsider.com/route/grand-central-circuit/)*
  
  * *[Hudson roll](https://zwiftinsider.com/route/hudson-roll/)*
  
