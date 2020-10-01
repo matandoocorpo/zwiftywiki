@@ -2,12 +2,14 @@
 theme: jekyll-theme-minimal
 title: ZwiftyWiki
 description: Recursos útiles para disfrutar de Zwift
+tagline: recursos para novatos en Zwift
 logo: /logo.png
 show_downloads: false
 google_tag_manager: GTM-MJLDWPT
 plugins:
   - jekyll-relative-links
   - jekyll-target-blank
+  - jekyll-seo-tag
   - jemoji
 relative_links:
   enabled: true
@@ -25,7 +27,11 @@ include:
   - innsbruck.md
   - richmond.md
   - bologna.md
-  - france.md
+  - france.m
   - critcity.md
   - yorkshire.md
   - watopia.md
+ twitter:
+  card:summary
+  username: matandoocorpo
+url: https://matandoocorpo.github.io/zwiftywiki/ 
