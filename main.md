@@ -66,14 +66,8 @@
 - [La tienda](https://support.zwift.com/en_us/the-drop-shop-S13OywO4B) (Zwift)
 - [Las gotas de sudor](https://zwiftinsider.com/how-drops-work/) (Zwift)
 - [Preguntas más frecuentes](https://support.zwift.com/en_us/drop-shop-faq-Bk1vMkTfB) (Zwift)
-
-<details>
-  <summary> :tv: GPLama te lo explica</summary>
+- :tv: [GPLama te lo explica](https://img.youtube.com/vi/5uaBZPmIR50/0.jpg)](https://www.youtube.com/watch?v=5uaBZPmIR50)
   
-  [![GPLama](https://img.youtube.com/vi/5uaBZPmIR50/0.jpg)](https://www.youtube.com/watch?v=5uaBZPmIR50)
-  
-</details>
-
 ## :mushroom: Power-ups, Bicicletas & Ruedas
 
 - [Test de velocidad de diferentes combinaciones](https://zwiftinsider.com/category/tips/equipment/speed-tests/) (Zwift Insider)
