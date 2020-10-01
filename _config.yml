@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: 'jekyll-theme-minimal'
 title: ZwiftyWiki
 description: Recursos útiles para disfrutar de Zwift
 tagline: Recursos para novatos en Zwift
