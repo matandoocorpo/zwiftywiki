@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: ZwiftyWiki
+description: Recursos útiles para disfrutar de Zwift
 google_tag_manager: GTM-MJLDWPT
 plugins:
   - jekyll-relative-links
