@@ -3,7 +3,7 @@ title: "Recursos Zwift"
 google_tag_manager: GTM-MJLDWPT
 plugins:
   - jekyll-relative-links
-  - jemoji
+  - jemoji-plus
 relative_links:
   enabled: true
   collections: true
