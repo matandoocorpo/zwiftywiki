@@ -8,6 +8,7 @@ Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
 Si no te manejas bien con el inglés, aquí te explican como hacer que Chrome traduzca automáticamente las páginas para ti.
 
 [Activar traducción automática en Chrome](https://support.google.com/chrome/answer/173424?co=GENIE.Platform%3DDesktop&hl=es)
+
 ***
 
 ## :floppy_disk: Descarga de aplicaciones [Ir](main.md#floppy_disk-descarga-de-aplicaciones)
