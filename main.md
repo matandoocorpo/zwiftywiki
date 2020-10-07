@@ -26,7 +26,7 @@
 
   - [Detalle de mapas y rutas](maps.md)
   
-  - [Seguimiento de rutas y segmentos realizados](https://www.zwiftsegments.com/session/new) (ZwiftSegments)
+  - [Seguimiento de rutas y segmentos completados](https://www.zwiftsegments.com/session/new) (ZwiftSegments)
    
   - :v: [Logros y retos](https://zwift.fandom.com/wiki/Achievements) (Zwift Wiki)
 
