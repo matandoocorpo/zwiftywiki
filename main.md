@@ -25,6 +25,8 @@
   - [Lista de todas las rutas w/ con filtros](https://zwifthacks.com/app/routes/) (ZwiftHacks)
 
   - [Detalle de mapas y rutas](maps.md)
+  
+  - [Seguimiento de rutas y segmentos realizados](https://www.zwiftsegments.com/session/new) (ZwiftSegments)
    
   - :v: [Logros y retos](https://zwift.fandom.com/wiki/Achievements) (Zwift Wiki)
 
