@@ -22,7 +22,7 @@ Si no te manejas bien con el inglés, aquí te explican como hacer que Chrome tr
 - ### Competir en Zwift [Ir](main.md#checkered_flag-competir-en-zwift)
 - ### Workouts (Potencia, planes..) [Ir](main.md#bar_chart-workouts)
 
-## :mushroom: Power-ups, Bicicletas & Ruedas [Ir](main.md#-power-ups-bicicletas--ruedas)
+## :mushroom: Power-ups, Bicicletas & Ruedas [Ir](main.md#mushroom-power-ups-bicicletas--ruedas)
 
 ## :sweat_drops: La Tienda Zwift (Virtual) [Ir](main.md#sweat_drops-la-tienda-zwift-virtual)
 
