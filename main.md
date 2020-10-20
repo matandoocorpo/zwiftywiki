@@ -69,6 +69,7 @@
   
 ## :mushroom: Power-ups, Bicicletas & Ruedas
 
+- [Combinación bicicleta/ruedas más rápidas por niveles](https://zwiftinsider.com/fastest-bikes-at-each-level/) (Zwift Insider)
 - [Test de velocidad de diferentes combinaciones](https://zwiftinsider.com/category/tips/equipment/speed-tests/) (Zwift Insider)
 - [Guia de PowerUps en Zwift](https://zwiftinsider.com/powerups/) (Zwift Insider)
 - [Las 5 bicicletas más rápidas (y como conseguirlas)](https://zwiftinsider.com/5-fastest-bikes/) (Zwift Insider)
