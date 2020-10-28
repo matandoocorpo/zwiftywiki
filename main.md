@@ -12,6 +12,7 @@
 
 - [Discord](https://discord.com/download)
 
+- [Zwift en Linux](https://zwiftinsider.com/zwift-on-linux/) (Zwift Insider)
 
 ## :calendar: Calendario de circuitos
 
