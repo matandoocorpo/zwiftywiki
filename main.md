@@ -106,8 +106,10 @@
 - [Zwift en Reddit](https://www.reddit.com/r/Zwift/)
 
 ## :gear: Configuración de rodillos
- :wrench: [Rodillos](trainers.md)
 
+ - :wrench: [Rodillos](trainers.md)
+ - ⚙️ Información específica Tacx Neo(neo.md)
+  
 ## :question: Preguntas frecuentes 
   
   - [Dudas habituales](faqs.md)
