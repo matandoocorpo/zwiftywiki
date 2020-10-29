@@ -22,6 +22,6 @@ Consulta la lista oficial de rodillos soportados en [Zwift.com](https://support.
 - [Emparejar rodillo Tacx Trainer](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB) (Zwift)
 - [Emparejar rodillo  Wahoo](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS) (Zwift)
 
-### # ⚙️ Información específica Tacx Neo
+### ⚙️ Información específica Tacx Neo
 
 - [NeoWiki](neo.md) (ZwiftyWiki)
