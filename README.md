@@ -2,7 +2,7 @@
 
 ¿Acabas de descubrir Zwift y no sabes por dónde empezar?
 
-Esta lista de recursos te puede ayudar! 🚴🏻‍♂️📚
+Esta lista de recursos te puede ayudar!
 
 ***
 Si no te manejas bien con el inglés, aquí te explican como hacer que Chrome traduzca automáticamente las páginas para ti.
