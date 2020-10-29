@@ -108,7 +108,7 @@
 ## :gear: Configuración de rodillos
 
  - :wrench: [Rodillos](trainers.md)
- - ⚙️ Información específica Tacx Neo(neo.md)
+ - ⚙️ [Información específica Tacx Neo](neo.md)
   
 ## :question: Preguntas frecuentes 
   
