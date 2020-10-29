@@ -32,7 +32,7 @@ Si no te manejas bien con el inglés, aquí te explican como hacer que Chrome tr
 
 ## :book: Links útiles [Ir](main.md#-links-%C3%BAtiles)
 
-## :gear: Configuración de rodillos [Ir](main.md#%EF%B8%8F-configuraci%C3%B3n-de-rodillos)
+## :gear: Configuración de rodillos [Ir](main.md#gear-configuraci%C3%B3n-de-rodillos)
 
 ## :question: Preguntas frecuentes [Ir](main.md#question-preguntas-frecuentes)
 
