@@ -18,6 +18,7 @@
 
 - :fr: [PARIS](paris.md)
 
+- :jp: [MAKURI ISLANDS](makuri.md)
 
 ### Mapas exclusivos para eventos
 
