@@ -10,9 +10,9 @@
 
  * *[Chain Chomper](https://zwiftinsider.com/route/chain-chomper/)*
  * *[Countryside Tour](https://zwiftinsider.com/route/countryside-tour/)*
- * *[Flatland Loop]()*
- * *[Kappa Quest]()*
- * *[Sea to Tree]()*
- * *[Spirit Forest]()*
- * *[Three Village Loop]()*
- * *[Two Village Loop]()*
+ * *[Flatland Loop](https://zwiftinsider.com/route/flatland-loop/)*
+ * *[Kappa Quest](https://zwiftinsider.com/route/kappa-quest/)*
+ * *[Sea to Tree](https://zwiftinsider.com/route/sea-to-tree/)*
+ * *[Spirit Forest](https://zwiftinsider.com/route/spirit-forest/)*
+ * *[Three Village Loop](https://zwiftinsider.com/route/three-village-loop/)*
+ * *[Two Village Loop](https://zwiftinsider.com/route/two-village-loop/)*
